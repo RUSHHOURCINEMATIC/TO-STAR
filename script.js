@@ -5,590 +5,566 @@
 // ---------- 가사 데이터 ----------
 const LYRICS = {
   0: `Streetlights flicker like they're trying not to sleep,
-가로등이 잠들지 않으려는 듯 깜빡거리고,
+가로등은 잠 못 이룬 듯 깜빡이고,
 And I'm dragging my shadow down a worn-out street.
-나는 낡은 거리를 따라 내 그림자를 끌고 가.
+낡은 거리 위로 그림자만 무겁게 끌려가.
 Bottle in my hand, but it don't feel like a friend,
-손에 든 술병은 친구처럼 느껴지지 않아,
+손에 쥔 술병도 이젠 위로가 되지 않아,
 Just the weight of every moment I can't mend.
-단지 내가 고칠 수 없는 모든 순간들의 무게일 뿐.
-
-And the porch light's burning low,
-그리고 현관등은 낮게 타오르고 있어,
+돌이킬 수 없는 순간들의 무게만 얹혀 있을 뿐.And the porch light's burning low,
+현관등은 희미하게 켜져,
 Like it's waiting just for me.
-마치 나만을 기다리는 것처럼.
+나만을 기다리는 듯이.
 A little glow in all this dark,
-이 모든 어둠 속의 작은 빛이,
+이 어둠 속 작은 불빛이,
 Saying, "Come back quietly."
-"조용히 돌아오렴"이라고 말하는 듯해.
-
-It's a long walk home tonight,
-오늘 밤 집으로 가는 길은 멀어,
+"조용히 돌아오렴" 속삭여.It's a long walk home tonight,
+오늘 밤, 집으로 가는 길은 참 멀어,
 Through the silence and the cold street lights.
-침묵과 차가운 가로등 불빛을 뚫고.
+차가운 가로등과 침묵을 지나서.
 I've been losing pieces of my fight,
-나는 싸움(노력)의 조각들을 잃어왔지만,
+버틸 힘도 조금씩 잃어가지만,
 But I'm still moving… slow but trying.
-나는 여전히 움직이고 있어... 느리지만 노력하며.
+그래도 걷고 있어… 느리지만, 애쓰면서.
 Yeah, I'm still trying.
-그래, 나는 여전히 노력하고 있어.
-
+그래, 아직 노력 중이야. 
 Wind hums softly through the fences by the yard,
-바람이 마당 옆 울타리를 통해 나지막이 콧노래를 부르고,
+바람이 마당 울타리 사이로 나직이 흐르며,
 Whistling songs about the nights that hit too hard.
-너무나 힘들었던 밤들에 대한 노래를 휘파람 불어.
+힘겨웠던 밤들의 노래를 휘파람으로 불어.
 Used to breathe in hope like it was air I couldn't lose—
-한때는 잃을 수 없는 공기처럼 희망을 들이마셨는데—
+숨 쉬듯 희망을 들이마시던 때가 있었는데—
 Now I'm learning how to walk without that muse.
-이제는 그 영감(희망) 없이 걷는 법을 배우고 있어.
-
-Still the porch light's burning low,
-여전히 현관등은 낮게 타오르고 있어,
+이젠 그 빛 없이 걷는 법을 배우고 있어.Still the porch light's burning low,
+여전히 현관등은 희미하게 켜져,
 Like it somehow understands.
-마치 그것이 어떻게든 이해하는 것처럼.
+모든 걸 이해한다는 듯이.
 How even clumsy steps can find
-아무리 서툰 발걸음이라도
+서툰 발걸음이라도 결국은
 Their way back home again.
-다시 집으로 돌아오는 길을 찾을 수 있다는 것을.
-
+다시 집을 찾아온다는 걸.
 It's a long walk home tonight,
-오늘 밤 집으로 가는 길은 멀어,
+오늘 밤, 집으로 가는 길은 참 멀어,
 Through the memories I try to fight.
-내가 맞서 싸우려 하는 기억들을 뚫고.
+지우려 애쓰는 기억들을 지나서.
 Though the weight inside don't feel too light,
-내 안의 무게가 너무 가볍지 않더라도,
-I'm still moving… slow but trying.
-나는 여전히 움직이고 있어... 느리지만 노력하며.
+마음속 짐이 가볍진 않아도,
+But I'm still moving… slow but trying.
+아직 걷고 있어… 느리지만, 애쓰면서.
 Yeah, I'm still trying.
-그래, 나는 여전히 노력하고 있어.
-
+그래, 아직 노력중이야.
 Maybe somewhere in this quiet,
 어쩌면 이 고요함 어딘가에,
 There's a spark I used to own.
-내가 예전에 가졌던 불꽃이 있을지도 몰라.
+예전의 그 불꽃이 남아 있을지도.
 Maybe I ain't meant to fade
-어쩌면 나는 사라지도록 되어 있지 않을지도 몰라
+어쩌면 나, 사라질 운명은 아닐지도 몰라
 Like a ghost on this old road.
-이 낡은 길 위의 유령처럼.
-
+이 낡은 길 위의 유령처럼은.
 It's a long walk home tonight,
-오늘 밤 집으로 가는 길은 멀지만,
+오늘 밤, 집으로 가는 길은 멀지만,
 But a small warm glow is in my sight.
-작고 따뜻한 빛이 내 시야에 들어와.
+저 앞에 작고 따뜻한 불빛이 보여.
 And even if I'm not alright,
-그리고 내가 괜찮지 않더라도,
+괜찮진 않아도, 그래도
 I'll keep walking… slow but trying.
-나는 계속 걸을 거야... 느리지만 노력하며.
+계속 걸을 거야… 느리지만, 애쓰면서.
 Yeah, I'm still trying—
-그래, 나는 여전히 노력하고 있어—
+그래, 아직 노력 중이야—
 Still heading home tonight.
-오늘 밤도 여전히 집으로 향하고 있어.`,
+오늘 밤도, 집으로 가고 있어.`,
 
   1: `The mirror's fogged with memories
-거울은 추억들로 흐려져 있어
+거울은 추억으로 흐려져,
 Of the man I used to be.
-내가 예전에 어떤 사람이었는지에 대한 추억들로.
+예전의 내 모습이 어렴풋이 비쳐.
 A quiet room, a gentle tune,
-조용한 방, 부드러운 멜로디,
+조용한 방, 나지막한 선율,
 And something waking up in me.
-그리고 내 안에서 무언가가 깨어나고 있어.
+내 안에서 무언가 깨어나고 있어.
 The razor's cold but steady,
-면도날은 차갑지만 흔들림이 없어,
+면도날은 차갑지만 흔들림 없어,
 Like a truth I can't outrun.
-마치 내가 피할 수 없는 진실처럼.
+피할 수 없는 진실처럼.
 Didn't plan to change today,
-오늘 변화할 계획은 없었지만,
+오늘 달라질 생각은 없었는데,
 But maybe change has just begun.
-어쩌면 변화는 이제 막 시작되었는지도 몰라.
-
+어쩌면 이미 시작된 걸지도 몰라.
 And in the corner by the fire,
-그리고 벽난로 옆 구석에는,
+벽난로 옆 그 구석에서,
 That little robot stares at me.
-저 작은 로봇이 나를 응시하고 있어.
+저 작은 로봇이 날 바라봐.
 Like it knows there's more to life
-마치 삶에는 더 많은 것이 있다는 것을 아는 것처럼
+내가 붙잡고 있던 것들 너머에
 Than the things I choose to keep.
-내가 붙잡고 있기로 선택한 것들보다.
-
+더 많은 삶이 있다는 걸 안다는 듯이.
 So I shave away the night,
-그래서 나는 밤(어둠/지난 시간)을 깎아내고,
+그렇게 지난 밤을 깎아내고,
 Let the music warm the light.
-음악이 빛을 따뜻하게 만들게 해.
+음악이 이 빛을 감싸게 두어.
 Still a little broken, but I just might
-아직 조금은 부서져 있지만, 어쩌면 나는
+아직 조금 부서져 있지만, 어쩌면
 Find a piece of who I was inside.
-내 안에 있던 나의 한 조각을 찾을 수 있을 거야.
+잃어버린 나를 다시 만날지도 몰라.
 Yeah, I'm trying… for the first time in awhile.
-그래, 노력하고 있어… 오랜만에 처음으로.
-
+그래, 해보고 있어… 정말 오랜만에 처음으로.
 The tape is softly spinning,
-테이프는 부드럽게 돌아가고,
+테이프는 부드럽게 돌아가,
 Dusty song from younger days.
-어린 시절의 먼지 쌓인 노래가 흘러나와.
+어린 시절 먼지 쌓인 노래 하나.
 Didn't think I'd feel it now,
-지금 이 감정을 느낄 거라고 생각하지 못했는데,
+지금 다시 느낄 줄은 몰랐는데,
 But the melody still stays.
-멜로디는 여전히 남아있네.
+그 멜로디, 아직 남아 있네.
 It pulls me from the shadows,
-그것은 나를 그림자로부터 끌어내,
+그 선율이 나를 그림자에서 끌어내,
 From the weight behind my eyes.
-내 눈 뒤에 있는 무게(슬픔, 피로)로부터.
+눈가에 얹힌 무게로부터.
 I'm not healed and I'm not ready—
-나는 치유되지 않았고, 준비되지도 않았어—
+다 나은 것도, 준비된 것도 아니야—
 But I'm willing to try.
-하지만 시도할 의향은 있어.
-
+그래도 한번 해보고 싶어.
 And MechaCat keeps blinking,
-그리고 메카캣은 계속 깜빡이고 있어,
+메카캣은 계속 깜빡여,
 Like a spark behind the steel.
-마치 강철 뒤의 불꽃처럼.
+강철 속 작은 불꽃처럼.
 Somehow telling me it's time
-어쩐지 나에게 때가 되었다고 말해주는 것 같아
+이제 때가 됐다고 말해주는 것 같아,
 To remember how to feel.
-다시 느끼는 법을 기억해야 할 때라고.
-
+다시 느끼는 법을 떠올릴 시간이라고.
 So I shave away the night,
-그래서 나는 밤(어둠/지난 시간)을 깎아내고,
+그렇게 지난 밤을 깎아내고,
 Let the music warm the light.
-음악이 빛을 따뜻하게 만들게 해.
+음악이 이 빛을 감싸게 두어.
 Still a little broken, but I just might
-아직 조금은 부서져 있지만, 어쩌면 나는
+아직 조금 부서져 있지만, 어쩌면
 Find a piece of who I was inside.
-내 안에 있던 나의 한 조각을 찾을 수 있을 거야.
+잃어버린 나를 다시 만날지도 몰라.
 Yeah, I'm trying… for the first time in awhile.
-그래, 노력하고 있어… 오랜만에 처음으로.
-
+그래, 해보고 있어… 정말 오랜만에 처음으로.
 Maybe hope don't come in thunder,
-어쩌면 희망은 천둥처럼 요란하게 오지 않을지도 몰라,
+어쩌면 희망은 천둥처럼 오는 게 아니라,
 Maybe it's a quiet hum.
-어쩌면 그것은 조용한 콧노래일지도.
+나지막한 콧노래로 오는 걸지도.
 Maybe all the change we're waiting
-어쩌면 우리가 기다리는 모든 변화는
+우리가 기다리던 모든 변화도
 Starts with something small as this—
-이것처럼 작은 것에서부터 시작될지도 몰라—
+이렇게 작은 것에서 시작되는 걸지도—
 A morning yet to come.
-아직 오지 않은 아침처럼.
-
+아직 오지 않은 어느 아침처럼.
 So I shave away the night,
-그래서 나는 밤을 깎아내고,
+그렇게 지난 밤을 깎아내고,
 Lift my eyes to something bright.
-밝은 무언가로 시선을 들어 올려.
+밝은 곳으로 눈을 들어.
 If this is what a new start feels like,
-만약 이것이 새로운 시작이 느껴지는 방식이라면,
+새 시작의 감각이 이런 거라면,
 Guess I'm ready for the ride.
-나는 이 여정을 받아들일 준비가 된 것 같아.
+이제 나설 준비가 된 것 같아.
 Yeah, I'm trying… trying with a fragile smile.
-그래, 노력하고 있어… 깨지기 쉬운 미소를 지으며 노력하고 있어.`,
+그래, 해보고 있어… 조심스러운 미소를 지으며.`,
 
   2: `Pushed the metal box aside,
-금속 상자를 옆으로 밀어냈어,
+금속 상자를 옆으로 밀어내자,
 Dust rose like a quiet sigh.
 먼지가 조용한 한숨처럼 피어올랐지.
 Old parts waiting in the shadows,
-오래된 부품들이 그림자 속에서 기다리고 있었어,
+어둠 속에 멈춰 있던 오래된 부품들은,
 Like they knew I'd come tonight.
-마치 내가 오늘 밤 올 것을 알았던 것처럼.
+마치 내가 오늘 밤 찾아올 걸 알고 있었던 것만 같아.
 My hands shake a little still,
 내 손은 아직 조금 떨리지만,
 But something soft begins to fill—
-하지만 부드러운 무언가가 채워지기 시작해—
+마치 무언가 부드러운 온기가 차오르기 시작해—
 A tiny hum beneath the static,
-잡음(정적) 아래의 아주 작은 웅얼거림처럼,
+지지직거리는 잡음 너머로 나직한 웅얼거림이 들려오고,
 Like the world is holding still.
-마치 세상이 멈춘 것 같아.
+순간 세상이 숨을 죽인 듯 고요해져.
 
 Didn't think I'd feel this way,
-이런 식으로 느낄 거라고 생각하지 못했어,
+이런 감정이 차오를 줄은 몰랐어,
 Not in this forgotten place.
-이 잊혀진 장소에서는 말이야.
+이렇게 버려지고 잊힌 공간에서 말이야.
 But in the rust and scattered tools,
-하지만 녹과 흩어진 공구들 속에서,
+하지만 녹슨 도구들이 어지럽게 널린 이곳에서,
 I feel something shift in me.
-내 안의 무언가가 움직이는 것을 느껴.
+내 안의 무언가가 서서히 움직이는 게 느껴져.
 
 Just a little spark in all this dust,
-이 모든 먼지 속에 아주 작은 불꽃일 뿐이지만,
+자욱한 먼지 속에 일어난 아주 작은 불꽃일 뿐이지만,
 But it's enough, it's enough.
-하지만 그것으로 충분해, 충분해.
+그거면 충분해, 그걸로 충분해.
 Feels strange to find a breath of trust
-신뢰의 숨결을 발견한다는 것이 이상하게 느껴져
+어쩌면 기적 같아, 기분 좋은 믿음의 숨결을 발견한다는 게.
 In gears that haven't moved in months.
-몇 달 동안 움직이지 않았던 톱니바퀴들 속에서.
+몇 달 동안이나 꼼짝도 하지 않던 톱니바퀴들 사이에서.
 Just a little spark in all this dust—
-이 모든 먼지 속에 아주 작은 불꽃일 뿐—
+그저 먼지 속에 피어난 작은 불꽃 하나일 뿐—
 But maybe that's enough.
-하지만 어쩌면 그것으로 충분할지도 몰라.
+하지만 어쩌면, 정말 그것만으로도 충분할지 몰라.
 
 Pulled a wrench down from the peg,
-못에서 렌치 하나를 집어 내렸어,
+벽걸이 못에서 렌치 하나를 집어 들었어,
 Cold against my tired hands.
-내 지친 손에 차갑게 닿아.
+지친 내 손바닥에 차가운 감촉이 와닿네.
 Funny how a simple motion
 단순한 동작 하나가
 Makes me want to try again.
-나를 다시 시도하고 싶게 만든다는 것이 재미있어.
+나를 다시 시작해보고 싶게 만들다니.
 The silence doesn't feel so heavy,
-침묵이 그렇게 무겁게 느껴지지 않아,
+이제 이 침묵도 그리 무겁게 느껴지지 않아,
 Not with music in the air.
-공기 중에 음악이 흐르니 말이야.
+이 공간에 음악이 흐르니 말이야.
 Feels like something lost is turning,
 잃어버렸던 무언가가 돌아오는 것 같아,
 Something fragile, something rare.
 깨지기 쉽고, 귀한 무언가가.
 
 Didn't think I'd find a place
-내 안의 소음이 사라질 곳을
+내 안을 어지럽히던 소음들이
 Where the noise inside would fade.
-찾을 거라고 생각하지 못했어.
+가라앉을 곳을 찾게 될 줄은 몰랐어.
 But here in these forgotten parts,
 하지만 이 잊혀진 부품들 속에서는,
 I'm not as broken as I came.
 내가 왔을 때만큼 망가지지 않았어.
 
 Just a little spark in all this dust,
-이 모든 먼지 속에 아주 작은 불꽃일 뿐이지만,
+자욱한 먼지 속에 일어난 아주 작은 불꽃일 뿐이지만,
 But it's enough, it's enough.
-하지만 그것으로 충분해, 충분해.
+그거면 충분해, 그걸로 충분해.
 Feels strange to find a breath of trust
-신뢰의 숨결을 발견한다는 것이 이상하게 느껴져
+어쩌면 기적 같아, 기분 좋은 믿음의 숨결을 발견한다는 게.
 In gears that haven't moved in months.
-몇 달 동안 움직이지 않았던 톱니바퀴들 속에서.
+몇 달 동안이나 꼼짝도 하지 않던 톱니바퀴들 사이에서.
 Just a little spark in all this dust—
-이 모든 먼지 속에 아주 작은 불꽃일 뿐—
+그저 먼지 속에 피어난 작은 불꽃 하나일 뿐—
 But maybe that's enough.
-하지만 어쩌면 그것으로 충분할지도 몰라.
+하지만 어쩌면, 정말 그것만으로도 충분할지 몰라.
 
 Maybe healing starts like this—
-어쩌면 치유는 이렇게 시작되는 것일지도 몰라—
+어쩌면 마음을 고치는 일은 이렇게 시작되나 봐—
 Quiet moments that I missed.
-내가 놓쳤던 조용한 순간들.
+내가 미처 알지 못하고 놓쳤던 조용한 순간들 속에서.
 Hands that tremble, heart that lifts
-떨리는 손, 고쳐지는 소리에
+손 끝은 투박하게 떨릴지라도, 가슴은 벅차올라.
 At the sound of something fixed.
-고양되는 가슴.
+무언가 다시 딱 맞게 고쳐지는 그 소리에.
 
 Just a little spark in all this dust,
-이 모든 먼지 속에 아주 작은 불꽃일 뿐이지만,
+자욱한 먼지 속에 일어난 아주 작은 불꽃일 뿐이지만,
 But it's enough, it's enough.
-하지만 그것으로 충분해, 충분해.
+그거면 충분해, 그걸로 충분해.
 If every broken piece of us
-만약 우리 모두의 모든 부서진 조각들이
+만약 상처 입고 부서진 우리의 조각들이
 Can teach a way to stand back up—
-다시 일어설 방법을 가르쳐줄 수 있다면—
+우리에게 다시 일어서는 법을 가르쳐주는 중이라면—
 Then this little spark in all this dust
-그렇다면 이 모든 먼지 속의 작은 불꽃은
+그렇다면 이 먼지 구덩이 속 작은 불꽃은,
 Might be more than enough.
 충분한 것 이상일지도 몰라.`,
 
   3: `I've been running in circles,
-나는 방황했고
+한참을 제자리에서 맴돌기만 했었지,
 Lost a little bit of who I was.
-나 자신을 조금 잃어버렸어.
+나 자신이 누구였는지도 조금은 잃어버린 채.
 Walkman playing old memories,
-워크맨에서는 오래된 추억들이 흘러나오고,
+워크맨에선 빛바랜 추억들이 흘러나오고,
 Dusty roads and the dreams I loved.
-먼지 쌓인 길들과 내가 사랑했던 꿈들.
+먼지 쌓인 길 위엔 내가 사랑했던 꿈들이 흩어져 있어.
 But something in the night sky
-하지만 밤하늘의 무언가가
+그런데 저 깊은 밤하늘 어딘가에서
 Started calling out my name.
-내 이름을 부르기 시작했어.
+다시 내 이름을 부르는 소리가 들려와.
 A little spark, a little heartbeat,
-작은 불꽃, 작은 심장 박동이,
+작은 불꽃이 튀듯, 심장이 나직하게 뛰며
 Saying, "You can start again."
-"너는 다시 시작할 수 있어"라고 말하며.
+"너는 다시 시작할 수 있어"라고 속삭이네.
 
 Every step feels lighter,
-발걸음마다 더 가벼워져,
+발걸음이 한결 가벼워져,
 When I hear that rhythm play.
-저 리듬이 연주되는 것을 들으면.
+이 리듬이 귓가에 울려 퍼질 때마다.
 Funky little melody
-경쾌하고 멋진 멜로디가
+몸을 들썩이게 하는 이 펑키한 멜로디가
 Is pulling all my fears away.
-내 모든 두려움을 걷어내고 있어.
+내 안의 모든 두려움을 한순간에 걷어내 주니까.
 
 I'm going back to the stars tonight,
-나는 오늘 밤 별들에게로 돌아갈 거야,
+오늘 밤, 나 다시 저 별들을 향해 돌아갈 거야,
 With a fire in my heart and the world so bright.
-내 마음속엔 불꽃이 있고 세상은 너무나 밝아.
+가슴엔 뜨거운 불꽃을 품고, 눈부시게 빛나는 세상을 향해.
 Got a groove in my soul and it feels so right,
-내 영혼엔 그루브(흥)가 있고 너무나 올바르게 느껴져,
+영혼에 제대로 그루브가 내려앉았으니, 이거면 충분해.
 Yeah, I'm riding with the light —
-그래, 나는 빛과 함께 나아가고 있어 —
+그래, 환한 빛을 차고 달리는 거야 —
 Back to the stars tonight.
-오늘 밤 별들에게로 돌아가.
+오늘 밤, 다시 별들이 있는 곳으로.
 
 Friend beside me,
-나의 동지가 내 옆에 있어
+내 곁을 지켜주는 소중한 친구는,
 Shining like a neon guide.
-네온 길잡이처럼 빛나면서.
+어둠을 밝히는 네온 길잡이처럼 반짝이고 있어.
 Telling me to keep moving,
-계속 나아가라고 말해주지,
+멈추지 말고 계속 나아가라고,
 Leave the shadows all behind.
-모든 그림자들을 뒤에 남겨두고.
+어두운 그림자는 전부 뒤에 두고 가자고 말해주지.
 Every beat feels warmer,
-모든 비트가 더 따뜻하게 느껴져,
+심장박동 하나하나가 더 따스하게 다가와,
 Like the sun in a dusty town.
-먼지 낀 마을의 태양처럼.
+먼지 가득했던 거친 마을에 떠오르는 아침 해처럼.
 I feel alive, I feel louder —
-나는 살아있음을 느껴, 나는 더 활기차 —
+나 살아있음을 느껴, 내 목소리가 더 크게 울려 퍼져 —
 Nothing's gonna hold me down.
-그 무엇도 나를 짓누르지 못할 거야.
+그 어떤 것도 이제 나를 붙잡아두진 못해.
 
 Every road gets clearer,
-모든 길이 더 선명해져,
+눈앞의 모든 길이 선명해져,
 When the music finds my way.
-음악이 내 길을 찾아줄 때.
+음악이 내가 갈 길을 찾아 이끌어줄 때마다.
 Funky little heartbeat
-경쾌하고 멋진 작은 심장 박동이
+쿵쾅거리는 이 신나는 심장 박동이
 Keeps the darkness far away.
-어둠을 멀리 쫓아내.
+잔뜩 도사리던 어둠을 저 멀리 밀어내 주니까.
 
 I'm going back to the stars tonight,
-나는 오늘 밤 별들에게로 돌아갈 거야,
+오늘 밤, 나 다시 저 별들을 향해 돌아갈 거야,
 With a fire in my heart and the world so bright.
-내 마음속엔 불꽃이 있고 세상은 너무나 밝아.
+가슴엔 뜨거운 불꽃을 품고, 눈부시게 빛나는 세상을 향해.
 Got a groove in my soul and it feels so right,
-내 영혼엔 그루브(흥)가 있고 너무나 올바르게 느껴져,
+영혼에 제대로 그루브가 내려앉았으니, 이거면 충분해.
 Yeah, I'm riding with the light —
-그래, 나는 빛과 함께 나아가고 있어 —
+그래, 환한 빛을 차고 달리는 거야 —
 Back to the stars tonight.
-오늘 밤 별들에게로 돌아가.
+오늘 밤, 다시 별들이 있는 곳으로.
 
 Oh, I lost myself for a while,
-아, 한동안 나를 잃어버렸었지,
+아, 소음과 번쩍이는 네온사인 가득한
 In the noise and the neon miles.
-소음과 네온사인으로 가득한 길 위에서.
+그 아득한 길 위에서 한동안 나를 잃어버렸었지.
 But the tape keeps turning,
-하지만 (음악) 테이프는 계속 돌아가고,
+그래도 카세트테이프는 멈추지 않고 계속 돌아가고,
 And the hope starts burning,
-희망은 타오르기 시작해,
+내 안의 희망도 다시 뜨겁게 타오르기 시작해.
 I can feel it coming back to life.
-나는 그것이 다시 살아나는 것을 느낄 수 있어.
+온몸의 감각이 다시 짜릿하게 살아나는 게 느껴져.
 
 I'm going back to the stars tonight,
-나는 오늘 밤 별들에게로 돌아갈 거야,
+오늘 밤, 나 다시 저 별들을 향해 돌아갈 거야,
 Where the dreams I forgot are still shining bright.
-내가 잊었던 꿈들이 여전히 밝게 빛나고 있는 곳으로.
+내가 잠시 잊고 지냈던 꿈들이 여전히 눈부시게 빛나고 있는 그곳으로.
 With the beat in my chest, I'll be alright —
-가슴속의 비트만 있다면, 나는 괜찮을 거야 —
+이 가슴을 울리는 비트가 있으니, 난 이제 다 괜찮아 —
 Yeah, I'm heading to the light,
-그래, 나는 빛을 향해 가고 있어,
+그래, 거침없이 빛을 향해 나아가는 거야,
 Back to the stars tonight.
-오늘 밤 별들에게로 돌아가.`,
+오늘 밤, 다시 별들이 있는 그곳으로.`,
 
   4: `I've walked so long in shadows,
-나는 아주 오랫동안 그림자 속을 걸었지,
+나는 아주 오랫동안 어둠 속을 걸었어,
 Holding pieces of your light.
-당신의 빛 조각들을 붙잡은 채.
+당신이 남긴 빛의 조각들을 손에 꼭 쥔 채.
 Thought I lost you in the silence
-나는 당신을 침묵 속에서 잃었다고 생각했어
+깊은 침묵 속에서, 당신을 영영 잃어버린 줄만 알았지.
 Of those endless lonely nights.
-그 끝없는 외로운 밤들 속에서.
+끝없는 외로움이 밀려오던 그 밤들의
 But here you are before me,
-하지만 당신은 지금 내 앞에 있어,
+하지만 당신은 지금 내 앞에 서 있네,
 In a way I never knew—
-내가 전혀 알지 못했던 방식으로—
-A memory that found its way
-제 길을 찾아낸 하나의 기억이야
+내가 미처 상상조차 못 했던 모습으로—
+A memory that found it's way
+그 길고 긴 시간을 돌고 돌아 기어코,
 Back home, shining through.
-다시 집으로 돌아와, 빛을 내면서.
+환한 빛을 발하며 내 마음(집)으로 돌아와 준 기억이 되었어.
 
 And though the world kept changing,
 그리고 세상은 계속 변했지만,
 You stayed gently in my heart.
-당신은 내 마음속에 부드럽게 머물렀어.
+당신은 내 마음속에 따스하게 머물렀어.
 Maybe love was never gone…
-어쩌면 사랑은 사라지지 않았던 것인지도 몰라…
+어쩌면 사랑은 결코 떠난 적이 없었을지도 몰라…
 Just waiting in the dark.
 단지 어둠 속에서 기다리고 있었을 뿐.
 
 So here's the picture of the moment
-자, 여기 이 순간의 사진이 있어
+여기, 내게 모든 의미였던
 That meant everything to me.
-내게 전부였던 순간.
+그 순간의 사진이 있어.
 I'm letting go, but not of you—
-나는 놓아주고 있지만, 당신을 놓는 게 아니야—
+떠나보내지만, 당신을 잊으려는 건 아니야
 Just setting your heart free.
-단지 당신의 마음을 자유롭게 해주는 것일 뿐.
+단지 당신의 마음이 조금 더 자유로워지기를 바랄 뿐.
 And as you rise into the stars,
 그리고 당신이 별들을 향해 떠오를 때,
 I'll watch you quietly…
-나는 조용히 당신을 지켜볼 거야…
+나는 가만히 그 뒷모습을 바라볼 거야…
 'Cause wherever you may wander,
-왜냐하면 당신이 어디를 헤매더라도,
+당신이 그 어디를 거닐고 헤매이든,
 That's where you'll always be.
-당신은 언제나 그곳에 있을 테니까.
+언제나 그곳에, 그대로 존재할 테니까.
 
 I used to fear the ending,
 나는 예전에는 끝을 두려워했어,
 Thought goodbye meant losing all.
-작별 인사가 모든 것을 잃는 것을 의미한다고 생각했지.
+작별이란 모든 걸 잃는 일이라 생각했지.
 But love is something bigger—
-하지만 사랑은 더 큰 무언가야—
+하지만 사랑은 그보다 훨씬 더 거대한 무언가였어—
 It survives the hardest fall.
-가장 힘든 추락 속에서도 살아남지.
+가장 처절한 추락 속에서도 기어코 살아남으니까.
 You showed me how the broken parts
-당신은 부서진 조각들이
+부서진 조각들조차 어떻게 다시 빛을 발할 수 있는지,
 Can still learn how to shine.
-여전히 빛나는 법을 배울 수 있다는 것을 보여주었어.
+그걸 내게 가르쳐준 건 당신이었어.
 And though you're leaving now…
-그리고 당신이 지금 떠나지만…
+그러니 비록 지금 당신은 떠나가지만…
 You'll never leave my mind.
-당신은 내 마음을 절대 떠나지 않을 거야.
+내 마음속에서 당신이 떠나는 일은 결코 없을 거야.
 
 And in this gentle moment,
-그리고 이 부드러운 순간에,
-I finally understand:
-나는 마침내 깨달아:
+그리고 이 따스한 순간 속에서,
+I finally understand
+나 이제야 마침내 깨달아.
 Every step that brought me here
-나를 여기까지 데려온 모든 발걸음이
+나를 여기까지 이끈 그 모든 발걸음들이,
 Was leading me by hand.
-나를 손으로 이끌고 있었다는 것을.
+사실은 다정하게 내 손을 잡고 이끌어준 길이었다는 걸.
 
 So here's the picture of the moment
-자, 여기 내게 전부였던
+여기, 내게 모든 의미였던
 That meant everything to me.
-이 순간의 사진이 있어.
+그 순간의 사진이 있어.
 I'm letting go, but not of you—
-나는 놓아주고 있지만, 당신을 놓는 게 아니야—
+이제 보내주려 해, 하지만 당신을 놓아버리는 건 아니야—
 Just setting your heart free.
-단지 당신의 마음을 자유롭게 해주는 것일 뿐.
+그저 당신의 마음을 자유롭게 해주고 싶을 뿐.
 And as you rise into the stars,
-그리고 당신이 별들을 향해 떠오를 때,
+그리고 당신이 저 별들을 향해 떠오를 때,
 I'll watch you quietly…
-나는 조용히 당신을 지켜볼 거야…
+나는 가만히 그 뒷모습을 바라볼 거야…
 'Cause wherever you may wander,
-왜냐하면 당신이 어디를 헤매더라도,
+당신이 그 어디를 거닐고 헤매이든,
 That's where you'll always be.
-당신은 언제나 그곳에 있을 테니까.
+언제나 그곳에, 그대로 존재할 테니까.
 
 Maybe love is just a journey
-어쩌면 사랑은 단지 여정일지도 몰라
+어쩌면 사랑이란,
 That continues past goodbye.
-작별 인사 후에도 계속되는.
+작별 너머로도 계속해서 이어지는 여정일지도 몰라.
 Maybe every tear we're shedding
-어쩌면 우리가 흘리는 모든 눈물이
+어쩌면 우리가 흘리는 이 모든 눈물들은,
 Leaves a little more light behind.
-조금 더 많은 빛을 뒤에 남기는 것일지도 몰라.
+우리가 지나온 자리에 조금 더 깊은 빛을 남기기 위함일지도 몰라.
 
 So take this memory with you—
-그러니 이 기억을 당신과 함께 가져가—
+그러니 이 기억을 품고 가줘—
 It's the best of what we had.
-그것은 우리가 가졌던 것 중 최고였어.
+우리가 함께 나눈 가장 아름다운 순간이니까.
 I'm proud of how we made it
-우리가 이겨낸 방식이 자랑스러워
+좋았던 날도, 시린 날도 있었지만
 Through the good days and the bad.
-좋은 날들과 힘든 날들 모두를 통해.
+우리가 그 모든 시간들을 함께 지나왔다는 게 자랑스러워.
 And when your light is high above,
-그리고 당신의 빛이 저 위에 높이 있을 때,
+그리고 당신의 빛이 저 하늘 높이 닿을 때,
 Just look back once for me…
-나를 위해 한 번만 뒤돌아봐 줘…
+나를 위해 아주 잠깐만 뒤돌아봐 줄래…
 'Cause wherever life may take me,
-왜냐하면 삶이 나를 어디로 데려가든,
+앞으로 삶이 나를 그 어디로 데려가든,
 You're where I'll always be.
-당신은 내가 항상 있을 곳이니까.`,
+내가 머무는 곳은 언제나 당신 곁일 테니까.`,
 
   5: `Sunrise on the metal frame,
-금속 기체 위로 떠오르는 햇살,
+차가운 기체 위로 아침 해가 떠오르고,
 Liftin' off and I feel the same—
-이륙하고 있지만 나는 똑같이 느껴—
+이륙하는 순간, 내 마음도 그때처럼 부풀어 올라—
 Heart beatin' like the old days comin' back around.
-심장이 옛날이 돌아오는 것처럼 다시 뛰고 있어.
+마치 그 시절이 돌아온 것처럼 가슴이 다시 뛰기 시작해.
 Got a picture in my pocket now,
-지금 내 주머니 속에는 사진 한 장이 있어,
+이젠 주머니 속에 당신 사진 한 장이 있어,
 Keeps me steady when the world goes loud,
-세상이 시끄러워질 때 나를 안정시켜 주지,
+세상이 아무리 소란해도 나를 중심을 잡게 해주지.
 You're the spark that turns my spaceship on somehow.
-당신은 어쩐지 내 우주선을 켜는 불꽃이니까.
-
+당신은 어쩐지 내 우주선의 엔진을 깨우는 단 하나의 불꽃이니까.
 And every star that's shining bright
-그리고 밝게 빛나는 모든 별들은
+그리고 저기 저 밝게 빛나는 별들이 하나하나,
 Feels a little like you saying, "It's alright."
-당신이 "괜찮아"라고 말하는 것처럼 느껴져.
-
+내게 "괜찮아"라고 속삭이는 당신의 목소리 같아.
 I've got the stars on my side,
-내 편에는 별들이 있어
+이제 별들이 내 편이 되어주니,
 A little joy on the ride.
-여행에는 약간의 기쁨이 함께해.
+이 여정길엔 작은 기쁨이 가득해.
 Taking off with a smile,
-미소를 지으며 이륙하고 있어,
+환한 미소를 지으며 날아올라,
 Yeah, I'm flying for miles.
-그래, 나는 수 마일을 비행하고 있어.
+그래, 저 먼 우주 끝까지 날아갈 거야.
 And though you're far in the night,
-그리고 당신이 밤의 저 멀리 있지만,
+비록 당신은 저 아득한 밤의 저편에 있지만,
 You're still burnin' so bright—
-여전히 너무나 밝게 타오르고 있어—
+여전히 그 누구보다 뜨겁게 빛나고 있어—
 Wherever I'm goin', you're glowing,
-내가 어디를 가든, 당신은 빛나고 있어,
+내가 향하는 그 어디서든 당신은 반짝일 테니,
 Yeah, the stars are on my side.
-그래, 내 편에는 별들이 있어.
-
+그래, 이제 별들은 모두 내 편이야.
 Floating through the cosmic breeze,
-우주의 미풍 속을 떠다니고,
+은은한 우주의 바람을 타고 흐르며,
 New adventures whisperin' to me,
-새로운 모험들이 내게 속삭여,
+새로운 모험들이 내게 속삭여 오네.
 Feels good to have a little fire in my soul again.
-내 영혼에 다시 작은 불꽃이 있는 것이 기분 좋아.
+식어버렸던 내 영혼에 다시 불꽃이 피어오르는 기분이 좋아.
 Every leap and every dive,
-모든 도약과 모든 하강이,
+힘차게 도약하고 거침없이 하강하는 매 순간이,
 Feels like waking up to the rest of my life,
-내 남은 삶을 향해 깨어나는 것 같아,
+지나간 날을 뒤로하고 남은 삶을 향해 눈을 뜨는 기분이야.
 Guess you taught me how to live before the end.
-아마 당신이 마지막(이별) 전에 내게 사는 법을 가르쳐 주었나 봐.
-
+모든 게 끝나버리기 전에 살아가는 법을, 당신이 내게 가르쳐준 거였어.
 And I can hear you in the quiet hum,
-그리고 나는 조용한 윙윙거림 속에서 당신의 목소리를 들을 수 있어,
+기체의 잔잔한 진동 속에서 당신 목소리가 들리는 듯해,
 Saying, "Go on, you're stronger than you think you've become."
-"계속 나아가, 너는 네가 생각하는 것보다 더 강해졌어"라고 말하는.
-
+"계속 나아가, 너는 네가 생각하는 것보다 훨씬 더 강해졌으니까"라고.
 I've got the stars on my side,
-내 편에는 별들이 있어,
+이제 별들이 내 편이 되어주니,
 A little joy on the ride.
-여행에는 약간의 기쁨이 함께해.
+이 여정엔 작은 기쁨(작은 조이)이 가득해.
 Taking off with a smile,
-미소를 지으며 이륙하고 있어,
+환한 미소를 지으며 날아올라,
 Yeah, I'm flying for miles.
-그래, 나는 수 마일을 비행하고 있어.
+그래, 저 먼 우주 끝까지 날아갈 거야.
 And though you're far in the night,
-그리고 당신이 밤의 저 멀리 있지만,
+비록 당신은 저 아득한 밤의 저편에 있지만,
 You're still burnin' so bright—
-여전히 너무나 밝게 타오르고 있어—
+여전히 그 누구보다 뜨겁게 빛나고 있어—
 Wherever I'm goin', you're glowing,
-내가 어디를 가든, 당신은 빛나고 있어,
+내가 향하는 그 어디서든 당신은 반짝일 테니,
 Yeah, the stars are on my side.
-그래, 내 편에는 별들이 있어.
-
+그래, 이제 별들은 모두 내 편이야.
 Hey—
 헤이—
 For every moment I was lost, you gave me light.
-내가 길을 잃었던 모든 순간, 당신은 내게 빛을 주었지.
+내가 길을 잃고 헤맬 때마다, 당신은 늘 빛이 되어주었지.
 Hey—
 헤이—
 Now I'm running on the hope you left behind.
-이제 나는 당신이 남긴 희망을 동력 삼아 달리고 있어.
+이젠 당신이 남긴 희망으로 나 달리고 있어.
 Hey—
 헤이—
 If the universe is wide, I'll be alright…
-이 우주가 아무리 넓더라도, 나는 괜찮을 거야…
+이 우주가 아무리 넓어도, 나는 괜찮아…
 'Cause I've got your shine, your shine.
-왜냐하면 내게는 당신의 빛, 당신의 빛이 있으니까.
-
+내겐 당신의 빛이, 온전한 당신의 빛이 있으니까.
 I've got the stars on my side,
-내 편에는 별들이 있어,
+이제 별들이 내 편이 되어주니,
 A little joy on the ride.
-여행에는 약간의 기쁨이 함께해.
+이 여정엔 작은 기쁨(작은 조이)이 가득해.
 Got tomorrow in sight,
-내일이 눈앞에 보여,
+저 멀리 내일이 눈앞에 보여,
 And it's lookin' so bright—
-그리고 너무나 밝아 보여—
+눈부시도록 밝아 올 그 내일이—
 And though you're far in the night,
-그리고 당신이 밤의 저 멀리 있지만,
+당신은 밤의 저편에 있지만,
 You're still burnin' so bright…
-여전히 너무나 밝게 타오르고 있어…
+여전히 그렇게 밝게 빛나고 있어…
 Wherever I'm goin', you're glowing,
-내가 어디를 가든, 당신은 빛나고 있어,
+내가 가는 그 어디서든, 당신은 반짝여,
 Yeah, the stars are on my side.
-그래, 내 편에는 별들이 있어.`
+그래, 별들이 내 편이야.`
 };
 
 const TRACK_TITLES = [
