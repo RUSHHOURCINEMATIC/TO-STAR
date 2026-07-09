@@ -16,7 +16,8 @@ function getTodayDateString() {
   const now = new Date();
   const kstOffset = 9 * 60;
   const localOffset = now.getTimezoneOffset();
-  const kstTime = new Date(now.getTime() + (kstOffset + localOffset) * 60000);
+  let kstTime = new Date(now.getTime() + (kstOffset + localOffset) * 60000);
+  kstTime = new Date(kstTime.getTime() - 6 * 60 * 60000); // 새벽 6시 기준으로 날짜 전환
   const y = kstTime.getFullYear();
   const m = String(kstTime.getMonth() + 1).padStart(2, '0');
   const d = String(kstTime.getDate()).padStart(2, '0');
